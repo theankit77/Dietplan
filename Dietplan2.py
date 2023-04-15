@@ -8,7 +8,7 @@ from PIL import Image
 import pandas as pd
 from termcolor import colored
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 st.set_page_config(
     page_title="DietChart",
